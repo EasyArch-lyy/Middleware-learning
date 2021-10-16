@@ -40,7 +40,9 @@ import java.text.DecimalFormat;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
-
+/**
+ * elasticsearch  geo搜索
+ */
 public class TestService {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(TestService.class);
